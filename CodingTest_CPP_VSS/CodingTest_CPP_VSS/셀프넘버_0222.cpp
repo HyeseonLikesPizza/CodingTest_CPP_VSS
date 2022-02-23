@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+bool selfNum[10000] = { false };
+
 using namespace std;
 
 int SelfNumber(int num) {
@@ -17,7 +19,7 @@ int SelfNumber(int num) {
 
 int main() {
 
-	int num = 2, res=0, i, cnt=1;
+	int num = 1, res=0, i, cnt=1;
 	printf("1\n");
 
 	
