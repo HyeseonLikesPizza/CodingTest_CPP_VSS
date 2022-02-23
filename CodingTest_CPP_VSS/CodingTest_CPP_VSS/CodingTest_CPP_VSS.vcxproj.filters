@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="셀프넘버_0222.cpp">
+    <ClCompile Include="BOJ1065셀프넘버_0222.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2247재귀별찍기_0223.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -121,7 +121,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="셀프넘버_0222.cpp" />
+    <ClCompile Include="BOJ2247재귀별찍기_0223.cpp" />
+    <ClCompile Include="BOJ1065셀프넘버_0222.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
