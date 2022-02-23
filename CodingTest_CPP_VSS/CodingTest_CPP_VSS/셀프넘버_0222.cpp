@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-bool selfNum[10000] = { false };
+bool notSelfNum[10000];
 
 using namespace std;
 
@@ -14,29 +14,26 @@ int SelfNumber(int num) {
 		w += str[i]-'0';
 	}
 
+	notSelfNum[w] = true;
+
 	return w;
 }
 
 int main() {
 
-	int num = 1, res=0, i, cnt=1;
-	printf("1\n");
+	int cnt=1, res=0;
 
-	
 	while (cnt <= 10000)
 	{
-		res = SelfNumber(num);
+		res = SelfNumber(cnt);
 
-		if(res != cnt)
+		if(!notSelfNum[cnt])
+			printf("%d\n", cnt);
 
 
-		for (i = num + 1; i < res; i++)
-			printf("%d\n", i);
-		
-		num = res;
 		cnt++;
 	}
 	
-
 	return 0;
+
 }
