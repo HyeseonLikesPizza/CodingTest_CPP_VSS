@@ -121,6 +121,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BOJ11729하노이탑이동순서_0224.cpp" />
     <ClCompile Include="BOJ2247재귀별찍기_0223.cpp" />
     <ClCompile Include="BOJ1065셀프넘버_0222.cpp" />
   </ItemGroup>

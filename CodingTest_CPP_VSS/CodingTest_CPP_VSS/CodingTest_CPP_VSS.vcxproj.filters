@@ -21,5 +21,8 @@
     <ClCompile Include="BOJ2247재귀별찍기_0223.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ11729하노이탑이동순서_0224.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
