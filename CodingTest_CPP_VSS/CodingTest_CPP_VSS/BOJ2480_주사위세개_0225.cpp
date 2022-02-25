@@ -25,6 +25,7 @@ int main() {
 	if (res == 0)
 		res = max * 100;
 
+
 	cout << res;
 
 	return 0;
