@@ -15,64 +15,67 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ1065셀프넘버_0222.cpp">
+    <ClCompile Include="02-23 BOJ1065 셀프넘버.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2247재귀별찍기_0223.cpp">
+    <ClCompile Include="02-23 BOJ2247 재귀별찍기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ11729하노이탑이동순서_0224.cpp">
+    <ClCompile Include="02-25 BOJ11729 하노이탑이동순서.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ10926_놀람출력_0225.cpp">
+    <ClCompile Include="02-25 BOJ10926 놀람출력.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ18108_불기연도를서기연도로_0225.cpp">
+    <ClCompile Include="02-25 BOJ18108 불기연도를서기연도로.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2753_윤년_0225.cpp">
+    <ClCompile Include="02-25 BOJ2753 윤년.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ14681_사분면 고르기_0225.cpp">
+    <ClCompile Include="02-25 BOJ14681 사분면 고르기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2884_알람시계_0225.cpp">
+    <ClCompile Include="02-25 BOJ2884 알람시계.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2525_오븐시계_0225.cpp">
+    <ClCompile Include="02-25 BOJ2525 오븐시계.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2480_주사위세개_0225.cpp">
+    <ClCompile Include="02-25 BOJ2480 주사위세개.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ10950_A+B-3_0225.cpp">
+    <ClCompile Include="02-25 BOJ10950 A+B-3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2739_구구단_0225.cpp">
+    <ClCompile Include="02-25 BOJ2739 구구단.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ8393_합_0225.cpp">
+    <ClCompile Include="02-25 BOJ8393 합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ15552_빠른A+B_0225.cpp">
+    <ClCompile Include="02-25 BOJ15552 빠른A+B.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2741_N찍기_0225.cpp">
+    <ClCompile Include="02-25 BOJ2741 N찍기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2742_기찍N_0225.cpp">
+    <ClCompile Include="02-25 BOJ2742 기찍N.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ11021_A+B-7_0225.cpp">
+    <ClCompile Include="02-25 BOJ11021 A+B-7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ11022_A+B-8_0225.cpp">
+    <ClCompile Include="02-25 BOJ11022 A+B-8.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2438_별찍기_0225.cpp">
+    <ClCompile Include="02-25 BOJ2438 별찍기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ2439_별찍기2_0225.cpp">
+    <ClCompile Include="02-25 BOJ2439 별찍기2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02-26 BOJ10871 X보다 작은수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
