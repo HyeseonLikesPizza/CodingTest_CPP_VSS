@@ -87,5 +87,8 @@
     <ClCompile Include="03-06 BOJ1110 더하기사이클.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="03-06 BOJ1712 손익분기점.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
