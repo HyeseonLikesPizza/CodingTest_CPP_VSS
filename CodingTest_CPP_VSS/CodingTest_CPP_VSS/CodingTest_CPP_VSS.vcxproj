@@ -226,7 +226,10 @@
     <ClCompile Include="03-08 BOJ10828 스택.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="03-08 BOJ9012 괄호.cpp" />
+    <ClCompile Include="03-08 BOJ1874 스택수열.cpp" />
+    <ClCompile Include="03-08 BOJ9012 괄호.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="03-08 BOJ9093 단어뒤집기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
