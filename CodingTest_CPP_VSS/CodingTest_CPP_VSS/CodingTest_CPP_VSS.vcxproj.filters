@@ -99,5 +99,8 @@
     <ClCompile Include="03-08 BOJ9093 단어뒤집기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="03-08 BOJ9012 괄호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
