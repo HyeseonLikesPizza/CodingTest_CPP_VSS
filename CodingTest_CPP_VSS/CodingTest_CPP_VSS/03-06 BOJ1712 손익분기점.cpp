@@ -5,27 +5,24 @@ using namespace std;
 
 int main() {
 
-	long int A, B, C, n=1, cost, sales;
+	int A, B, C, n = 1;
 
 	scanf("%d %d %d", &A, &B, &C);
 
-	while (1) {
-
-		cost = A + (B * n);
-		sales = C * n;
-
-		if (sales - cost < 0) {
-			n = -1;
-			break;
+	if (C - B == 0)
+		printf("-1");
+	else if ((double)A / (C - B) < 0)
+		printf("-1");
+	else
+	{
+		while (1) {
+			if (A / (C - B) < n)
+				break;
+			n++;
 		}
-
-		if (cost < sales)
-			break;
-
-		n++;
+		printf("%d", n);
 	}
 
-	printf("%d", n);
 
 	return 0;
 }
