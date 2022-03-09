@@ -105,5 +105,8 @@
     <ClCompile Include="03-08 BOJ1874 스택수열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="03-09 BOJ1406 에디터.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
